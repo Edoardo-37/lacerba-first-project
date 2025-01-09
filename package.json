@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Edo1",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/Edoardo-37/lacerba-first-project"
+  }
 }
